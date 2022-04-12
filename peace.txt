@@ -1,0 +1,5 @@
+{
+	"ip":"Criminal_gamerz.aternos.me",
+	"port": "39402",
+	"name": "afkbot ka bhai"
+}
